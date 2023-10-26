@@ -1,10 +1,13 @@
-# Hedding For my README
+# I am Ibrahim
 
-- 👋 Hi, I’m @ibrahimshaan0
+- 👋 Hi, I’m [Ibrahim](https://github.com/ibrahimshaan0)
+- 🧔🏻 My Poftfolio Website: <a href="https://ibrahimshaan0.com/"> ibrahimshaan0.com </a>
 - 👀 I’m interested in codes and languages.
 - 🌱 I have learnt c programming language.
 - 🌱 I have learnt c++ programming language.
 - 🌱 I have learnt Java programming language.
+- 🌱 I am learning Web Development.
+- 🌱 I am learning WordPress Theme Developemnt.
 - 📫 I will achive my goals. I will be what I want to be not matter what!!!
 
 <!---
