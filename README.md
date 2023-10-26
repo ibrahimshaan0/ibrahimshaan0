@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m [Ibrahim](https://github.com/ibrahimshaan0)
 - 🧔🏻 My Poftfolio Website: <a href="https://ibrahimshaan0.com/"> ibrahimshaan0.com </a>
-- 👀 I’m interested in codes and languages(spoken and programming included).
+- 👀 I’m interested in codes and languages (spoken and programming included).
 - 🌱 I have learnt c programming language.
 - 🌱 I have learnt c++ programming language.
 - 🌱 I have learnt Java programming language.
