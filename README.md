@@ -6,11 +6,16 @@
 - 🌱 I have learnt c programming language.
 - 🌱 I have learnt c++ programming language.
 - 🌱 I have learnt Java programming language.
-- 🌱 I am learning Web Development.
-- 🌱 I am learning WordPress Theme Developemnt.
-- 📫 I will achive my goals. I will be what I want to be not matter what!!!
+- 🐍 I have learnt Python programming language.
+- 🌐 For Web
+  - 🌐 HTML, CSS, JavaScript (FRONT END)
+  - 🌐 PHP , MySql (Backend)
+- 🌐 I have learnt Web Development (Full Stack).
+- 🌐 I am learning WordPress Theme Developemnt.
+
 
 <!---
+- 📫 I will achive my goals. I will be what I want to be not matter what!!! [Ignore this (this is only form me)]
 ibrahimshaan0/ibrahimshaan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
