@@ -1,7 +1,7 @@
 # I am Ibrahim
 
 - 👋 Hi, I’m [Ibrahim](https://github.com/ibrahimshaan0)
-- 🧔🏻 My Poftfolio Website: [ibrahimshaan0.com] (https://github.io/ibrahimshaan0/)
+- 🧔🏻 My Poftfolio Website: [ibrahimshaan0.com](https://ibrahimshaan0.github.io/)
 - 👀 I’m interested in codes and languages (spoken and programming included).
 - 🌱 I have learnt c programming language.
 - 🌱 I have learnt c++ programming language.
